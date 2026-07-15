@@ -1,6 +1,6 @@
 # 🧪 DF MW & Rheology Calculator
 
-A **Streamlit-based web application** for calculating key **drilling fluid (mud) properties** and performing **molecular weight unit conversions**. This tool provides a simple, interactive interface for petroleum engineering students, researchers, and professionals.
+A **Streamlit-based web application** for calculating key **drilling fluid (mud) properties** and performing **mud weight unit conversions**. This tool provides a simple, interactive interface for petroleum engineering students, researchers, and professionals.
 
 ---
 ## ✨ Features
